@@ -4,7 +4,6 @@ GymSnap is a mobile application designed for effective gym equipment classificat
 
 <img src="./demo.gif" width="300"/>
 
-
 ## Features
 - Browse exercises with filtering by equipment and muscle groups.
 - View detailed information about exercises, including images.
